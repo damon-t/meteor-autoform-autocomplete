@@ -14,7 +14,7 @@ Package.onUse(function(api) {
     'templating',
     'mrt:copy-template@0.9.0',
     'mizzao:autocomplete@0.5.1',
-    'aldeed:autoform@4.2.2 || 5.1.2'
+    'aldeed:autoform@6.3.0'
   ], 'client');
 
   api.addFiles([
